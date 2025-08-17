@@ -1,0 +1,31 @@
+# Quarto output directories
+_output/
+_publish/
+
+# Quarto cache
+.quarto/
+
+# R and Python cache files
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using JS extensions)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
